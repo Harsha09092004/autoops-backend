@@ -113,9 +113,9 @@ print("⚙️  CONFIGURATION STATUS".ljust(80))
 print("-" * 80)
 
 env_vars = {
-    "SUPABASE_URL": "https://lenofuxujkpowguukvdv.supabase.co",
-    "SUPABASE_KEY": "sb_secret_OVc-jE_KA8-UchpMKtPAyw_IRbSdZt2",
-    "RESEND_API_KEY": "re_Ki7dzoqm_8tfHV5KBzTDeHh5P8MH5eUUL",
+    "SUPABASE_URL": os.getenv("SUPABASE_URL", "Not configured"),
+    "SUPABASE_KEY": "*" * 10 if os.getenv("SUPABASE_KEY") else "Not configured",
+    "RESEND_API_KEY": "*" * 10 if os.getenv("RESEND_API_KEY") else "Not configured",
 }
 
 for var, value in env_vars.items():

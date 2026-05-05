@@ -5,8 +5,11 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Supabase Configuration
-SUPABASE_URL = os.getenv("SUPABASE_URL", "https://lenofuxujkpowguukvdv.supabase.co")
-SUPABASE_KEY = os.getenv("SUPABASE_KEY", "sb_secret_OVc-jE_KA8-UchpMKtPAyw_IRbSdZt2")
+SUPABASE_URL = os.getenv("SUPABASE_URL")
+SUPABASE_KEY = os.getenv("SUPABASE_KEY")
+
+if not SUPABASE_URL or not SUPABASE_KEY:
+    raise ValueError("SUPABASE_URL and SUPABASE_KEY environment variables must be set")
 
 supabase = create_client(SUPABASE_URL, SUPABASE_KEY)
 
