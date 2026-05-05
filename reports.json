@@ -1,0 +1,327 @@
+[
+  {
+    "timestamp": "2026-05-04T16:57:51.676481",
+    "data": {
+      "total_inactive": 3,
+      "estimated_savings": 375,
+      "inactive_users": [
+        {
+          "name": "Ravi",
+          "email": "ravi@gmail.com",
+          "days_inactive": 854
+        },
+        {
+          "name": "Priya",
+          "email": "priya@gmail.com",
+          "days_inactive": 885
+        },
+        {
+          "name": "Arjun",
+          "email": "arjun@gmail.com",
+          "days_inactive": 749
+        }
+      ],
+      "ai_insight": "You're losing \u20b9375/month due to 3 inactive users. Potential savings: 6% reduction. Action: Remove inactive accounts, review usage monthly, and enable inactivity alerts."
+    }
+  },
+  {
+    "timestamp": "2026-05-04T16:57:52.166933",
+    "data": {
+      "total_inactive": 3,
+      "estimated_savings": 375,
+      "inactive_users": [
+        {
+          "name": "Ravi",
+          "email": "ravi@gmail.com",
+          "days_inactive": 854
+        },
+        {
+          "name": "Priya",
+          "email": "priya@gmail.com",
+          "days_inactive": 885
+        },
+        {
+          "name": "Arjun",
+          "email": "arjun@gmail.com",
+          "days_inactive": 749
+        }
+      ],
+      "ai_insight": "You're losing \u20b9375/month due to 3 inactive users. Potential savings: 6% reduction. Action: Remove inactive accounts, review usage monthly, and enable inactivity alerts."
+    }
+  },
+  {
+    "timestamp": "2026-05-04T16:59:52.756372",
+    "data": {
+      "total_inactive": 3,
+      "estimated_savings": 375,
+      "inactive_users": [
+        {
+          "name": "Ravi",
+          "email": "ravi@gmail.com",
+          "days_inactive": 854
+        },
+        {
+          "name": "Priya",
+          "email": "priya@gmail.com",
+          "days_inactive": 885
+        },
+        {
+          "name": "Arjun",
+          "email": "arjun@gmail.com",
+          "days_inactive": 749
+        }
+      ],
+      "ai_insight": "You're losing \u20b9375/month due to 3 inactive users. Potential savings: 6% reduction. Action: Remove inactive accounts, review usage monthly, and enable inactivity alerts."
+    }
+  },
+  {
+    "timestamp": "2026-05-05T04:14:36.565546",
+    "data": {
+      "total_inactive": 3,
+      "estimated_savings": 375,
+      "inactive_users": [
+        {
+          "name": "Ravi",
+          "email": "ravi@gmail.com",
+          "days_inactive": 854
+        },
+        {
+          "name": "Priya",
+          "email": "priya@gmail.com",
+          "days_inactive": 885
+        },
+        {
+          "name": "Arjun",
+          "email": "arjun@gmail.com",
+          "days_inactive": 749
+        }
+      ],
+      "ai_insight": "You're losing \u20b9375/month due to 3 inactive users. Potential savings: 6% reduction. Action: Remove inactive accounts, review usage monthly, and enable inactivity alerts."
+    }
+  },
+  {
+    "timestamp": "2026-05-05T04:14:37.380827",
+    "data": {
+      "total_inactive": 3,
+      "estimated_savings": 375,
+      "inactive_users": [
+        {
+          "name": "Ravi",
+          "email": "ravi@gmail.com",
+          "days_inactive": 854
+        },
+        {
+          "name": "Priya",
+          "email": "priya@gmail.com",
+          "days_inactive": 885
+        },
+        {
+          "name": "Arjun",
+          "email": "arjun@gmail.com",
+          "days_inactive": 749
+        }
+      ],
+      "ai_insight": "You're losing \u20b9375/month due to 3 inactive users. Potential savings: 6% reduction. Action: Remove inactive accounts, review usage monthly, and enable inactivity alerts."
+    }
+  },
+  {
+    "timestamp": "2026-05-05T04:14:37.949065",
+    "data": {
+      "total_inactive": 3,
+      "estimated_savings": 375,
+      "inactive_users": [
+        {
+          "name": "Ravi",
+          "email": "ravi@gmail.com",
+          "days_inactive": 854
+        },
+        {
+          "name": "Priya",
+          "email": "priya@gmail.com",
+          "days_inactive": 885
+        },
+        {
+          "name": "Arjun",
+          "email": "arjun@gmail.com",
+          "days_inactive": 749
+        }
+      ],
+      "ai_insight": "You're losing \u20b9375/month due to 3 inactive users. Potential savings: 6% reduction. Action: Remove inactive accounts, review usage monthly, and enable inactivity alerts."
+    }
+  },
+  {
+    "timestamp": "2026-05-05T04:14:38.011276",
+    "data": {
+      "total_inactive": 3,
+      "estimated_savings": 375,
+      "inactive_users": [
+        {
+          "name": "Ravi",
+          "email": "ravi@gmail.com",
+          "days_inactive": 854
+        },
+        {
+          "name": "Priya",
+          "email": "priya@gmail.com",
+          "days_inactive": 885
+        },
+        {
+          "name": "Arjun",
+          "email": "arjun@gmail.com",
+          "days_inactive": 749
+        }
+      ],
+      "ai_insight": "You're losing \u20b9375/month due to 3 inactive users. Potential savings: 6% reduction. Action: Remove inactive accounts, review usage monthly, and enable inactivity alerts."
+    }
+  },
+  {
+    "timestamp": "2026-05-05T04:23:30.938247",
+    "data": {
+      "total_inactive": 3,
+      "estimated_savings": 375,
+      "inactive_users": [
+        {
+          "name": "Ravi",
+          "email": "ravi@gmail.com",
+          "days_inactive": 854
+        },
+        {
+          "name": "Priya",
+          "email": "priya@gmail.com",
+          "days_inactive": 885
+        },
+        {
+          "name": "Arjun",
+          "email": "arjun@gmail.com",
+          "days_inactive": 749
+        }
+      ],
+      "ai_insight": "You're losing \u20b9375/month due to 3 inactive users. Potential savings: 6% reduction. Action: Remove inactive accounts, review usage monthly, and enable inactivity alerts."
+    }
+  },
+  {
+    "timestamp": "2026-05-05T04:23:30.947278",
+    "data": {
+      "total_inactive": 3,
+      "estimated_savings": 375,
+      "inactive_users": [
+        {
+          "name": "Ravi",
+          "email": "ravi@gmail.com",
+          "days_inactive": 854
+        },
+        {
+          "name": "Priya",
+          "email": "priya@gmail.com",
+          "days_inactive": 885
+        },
+        {
+          "name": "Arjun",
+          "email": "arjun@gmail.com",
+          "days_inactive": 749
+        }
+      ],
+      "ai_insight": "You're losing \u20b9375/month due to 3 inactive users. Potential savings: 6% reduction. Action: Remove inactive accounts, review usage monthly, and enable inactivity alerts."
+    }
+  },
+  {
+    "timestamp": "2026-05-05T04:23:32.849865",
+    "data": {
+      "total_inactive": 3,
+      "estimated_savings": 375,
+      "inactive_users": [
+        {
+          "name": "Ravi",
+          "email": "ravi@gmail.com",
+          "days_inactive": 854
+        },
+        {
+          "name": "Priya",
+          "email": "priya@gmail.com",
+          "days_inactive": 885
+        },
+        {
+          "name": "Arjun",
+          "email": "arjun@gmail.com",
+          "days_inactive": 749
+        }
+      ],
+      "ai_insight": "You're losing \u20b9375/month due to 3 inactive users. Potential savings: 6% reduction. Action: Remove inactive accounts, review usage monthly, and enable inactivity alerts."
+    }
+  },
+  {
+    "timestamp": "2026-05-05T04:23:32.859898",
+    "data": {
+      "total_inactive": 3,
+      "estimated_savings": 375,
+      "inactive_users": [
+        {
+          "name": "Ravi",
+          "email": "ravi@gmail.com",
+          "days_inactive": 854
+        },
+        {
+          "name": "Priya",
+          "email": "priya@gmail.com",
+          "days_inactive": 885
+        },
+        {
+          "name": "Arjun",
+          "email": "arjun@gmail.com",
+          "days_inactive": 749
+        }
+      ],
+      "ai_insight": "You're losing \u20b9375/month due to 3 inactive users. Potential savings: 6% reduction. Action: Remove inactive accounts, review usage monthly, and enable inactivity alerts."
+    }
+  },
+  {
+    "timestamp": "2026-05-05T05:55:12.661376",
+    "data": {
+      "total_inactive": 3,
+      "estimated_savings": 375,
+      "inactive_users": [
+        {
+          "name": "Ravi",
+          "email": "ravi@gmail.com",
+          "days_inactive": 854
+        },
+        {
+          "name": "Priya",
+          "email": "priya@gmail.com",
+          "days_inactive": 885
+        },
+        {
+          "name": "Arjun",
+          "email": "arjun@gmail.com",
+          "days_inactive": 749
+        }
+      ],
+      "ai_insight": "You're losing \u20b9375/month due to 3 inactive users. Potential savings: 6% reduction. Action: Remove inactive accounts, review usage monthly, and enable inactivity alerts."
+    }
+  },
+  {
+    "timestamp": "2026-05-05T05:55:12.799838",
+    "data": {
+      "total_inactive": 3,
+      "estimated_savings": 375,
+      "inactive_users": [
+        {
+          "name": "Ravi",
+          "email": "ravi@gmail.com",
+          "days_inactive": 854
+        },
+        {
+          "name": "Priya",
+          "email": "priya@gmail.com",
+          "days_inactive": 885
+        },
+        {
+          "name": "Arjun",
+          "email": "arjun@gmail.com",
+          "days_inactive": 749
+        }
+      ],
+      "ai_insight": "You're losing \u20b9375/month due to 3 inactive users. Potential savings: 6% reduction. Action: Remove inactive accounts, review usage monthly, and enable inactivity alerts."
+    }
+  }
+]
